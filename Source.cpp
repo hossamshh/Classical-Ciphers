@@ -376,6 +376,10 @@ int main() {
 	string vernam_ciphertext = vernam_cipher(plaintext, vernam_key);
 	cout << "Vernam Ciphertext: " << vernam_ciphertext << endl;
 	cout << "Ciphertext of input file is saved under \"Output Files/Vernam/vernam_cipher.txt\"" << endl << endl;
+
+	cout << endl << endl << "Program finished! Close and start agin" << endl;
+	string wait;
+	cin >> wait;
 	
 	return 0;
 }
