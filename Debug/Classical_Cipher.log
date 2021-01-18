@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(263): warning C4018: '<': signed/unsigned mismatch
+c:\users\hossa\source\repos\classical_cipher\classical_cipher\source.cpp(270): warning C4018: '<': signed/unsigned mismatch
+  Classical_Cipher.vcxproj -> C:\Users\hossa\source\repos\Classical_Cipher\Debug\Classical_Cipher.exe
