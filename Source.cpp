@@ -185,7 +185,7 @@ string adjust_length(string plaintext, int key_size) {
 		return plaintext;
 
 	for (int i = 0; i < add; i++)
-		plaintext += plaintext[i];
+		plaintext += 'X';
 
 	return plaintext;
 }
